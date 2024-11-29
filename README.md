@@ -6,4 +6,4 @@
 - **Relevant Topics:** Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks and Language.
 
 
-[**Credential**](https://certificates.cs50.io/e471ccf6-84d4-4f3f-b74a-dbc0998c60b1)
+[**Certificate of Completion**](https://certificates.cs50.io/e471ccf6-84d4-4f3f-b74a-dbc0998c60b1)
